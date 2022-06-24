@@ -1,2 +1,2 @@
-# Comparando de modo simples dois número com JS.
+### Comparando de modo simples dois número com JS.
 ### 
